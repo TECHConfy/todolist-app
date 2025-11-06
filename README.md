@@ -29,7 +29,7 @@ Allows you to add, delete, and mark tasks as completed. Tasks persist in `localS
 1. Clone the repository:
    ```bash
    git clone https://github.com/TECHConfy/todolist-app.git
-````
+
 
 2. Install dependencies:
 
