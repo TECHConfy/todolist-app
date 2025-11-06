@@ -1,19 +1,3 @@
-Ah, perfect — GitHub often creates a default `README.md` if you tick the box when creating a repo. You can totally **replace it or edit it** to match your style. Here’s how to do it step by step:
-
----
-
-## 🧩 Step 1: Open or create `README.md` locally
-
-1. Inside your project folder (`todolist-app`), check if a `README.md` exists.
-2. If it exists, open it in VS Code. If not, create a new file named `README.md`.
-
----
-
-## 🧩 Step 2: Replace the content with your own style
-
-Here’s a clean, beginner-friendly template for your To-Do List App:
-
-````markdown
 # To-Do List App 📝
 
 A simple and responsive **To-Do List App** built with **React**, using `useState` and `useEffect`.  
